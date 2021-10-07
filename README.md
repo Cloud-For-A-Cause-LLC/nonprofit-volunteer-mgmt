@@ -18,3 +18,8 @@ To work on this project in a scratch org:
 7. Run `cci task run dx -o command 'force:user:permset:assign -n Volunteer_Mgmt' --org dev`
 8. Run `cci task run load_dataset --org dev`
 9. Run `cci org browser dev` to open the org in your browser.
+
+<a href="https://githubsfdeploy.herokuapp.com?owner=Cloud-For-A-Cause-LLC&repo=Nonprofit-volunteer-mgmt">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
