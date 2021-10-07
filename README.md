@@ -20,9 +20,7 @@ To work on this project in a scratch org:
 9. Run `cci org browser dev` to open the org in your browser.
 
 <a href="https://githubsfdeploy.herokuapp.com">
-
   <img alt="Deploy to Salesforce"
-
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
-
 </a>
+
