@@ -19,7 +19,10 @@ To work on this project in a scratch org:
 8. Run `cci task run load_dataset --org dev`
 9. Run `cci org browser dev` to open the org in your browser.
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=Cloud-For-A-Cause-LLC&repo=nonprofit-volunteer-mgmt">
+<a href="https://githubsfdeploy.herokuapp.com">
+
   <img alt="Deploy to Salesforce"
+
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+
 </a>
